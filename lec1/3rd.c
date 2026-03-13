@@ -6,6 +6,6 @@ int main() {
     printf("c %%i : %i\n", c);
     printf("c %%c : %c\n", c);
     printf("c %%f : %f\n", (float)c);
-
+    printf("c %%u : %u\n", c);
     return 0; 
 }
