@@ -9,5 +9,10 @@ int main() {
     scanf("%d", &num2);
 
     printf("입력한 정수는 각각 [%d]와 [%d]입니다.\n", num1, num2);
+    printf("더하기 : %d\n", num1 + num2);
+    printf("빼기 : %d\n", num1 - num2);
+    printf("곱하기 : %d\n", num1 * num2);
+    printf("나누기 : %d\n", num1 / num2);
+    
     return 0;
 }

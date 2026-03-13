@@ -32,6 +32,11 @@ int main() {
     printf("ch %%i : %i\n", ch);
     printf("ch %%c : %c\n", ch);
     printf("ch %%f : %f\n", ch);
+
+    char strc[5] = "abcd";
+    printf("strc %%c : %c\n", strc);
+    printf("strc %%d : %d\n", strc);
+    printf("strc %%s : %s\n", strc);
     
     return 0; 
 }
