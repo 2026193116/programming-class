@@ -1,4 +1,1 @@
-#include <stdio.h>
-
-int main() {
-    char strc[5] = "abcd";
+    printf("3 && 2: %d\n", 3 && 2);
