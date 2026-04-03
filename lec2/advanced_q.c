@@ -20,6 +20,7 @@ int main(){
     else {
         printf("from %d to %d, minimum %d baesu is %d.", from, to, baesu, result);
     }
+    //무한루프 for(; ;)
 
     return 0;
 }
